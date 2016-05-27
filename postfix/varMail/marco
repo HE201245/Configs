@@ -1,0 +1,55 @@
+From marco.peters96@gmail.com  Fri May 27 14:04:57 2016
+Return-Path: <marco.peters96@gmail.com>
+X-Original-To: marco@wt11.ephec-ti.be
+Delivered-To: marco@wt11.ephec-ti.be
+Received: from mail-wm0-f47.google.com (mail-wm0-f47.google.com [74.125.82.47])
+	by wt11.ephec-ti.be (Postfix) with ESMTPS id 5F1B05415CA
+	for <marco@wt11.ephec-ti.be>; Fri, 27 May 2016 14:04:57 +0000 (UTC)
+Received: by mail-wm0-f47.google.com with SMTP id n129so138935613wmn.1
+        for <marco@wt11.ephec-ti.be>; Fri, 27 May 2016 07:04:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=Clv+jLA6ia51dMXnTBOMeCUSWMLwajweDiJHF20Y5lg=;
+        b=vlb0apY6+WL+5eG9Kzt2vMCuaobZq5JF3+BxLxLCDglnKrjYBSyo5xvsb/qPfQRQYd
+         AwU9NGNRSpocEjPc4VpPmmBMxOwCvPYVPNOX+oe4JUDKycypzkpY7tiNhosrEWtRIWPX
+         ejoCqOTpAYuLstkUmBbf3HvYCp+p5kYW15AylaWCp6k0pTnt+mefORm5XTyNHsVXI3sL
+         wOMcAm2mI7hX2QvWEYtCGfeJkDCHFSlSSqH7cqfMseykHuTH6goyGr37IM4Ti47zDIwa
+         bM7zRlhtu72tuwUPgnEFMCKYphFCvCgTVlAeDPWxMaGrz1hyDczxpbyDDTBX+43+zkGy
+         sOiQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=Clv+jLA6ia51dMXnTBOMeCUSWMLwajweDiJHF20Y5lg=;
+        b=IqgQoHMouNhnUgNtPHjpZmtgO6IoWgNAadmQ4A1YnEhZ6VXAl5afmWwiDfTy6QjKf3
+         FbPtntvrNFoQZ1hKbs5i6IlDH6qaTn6umhBeI/3QWH+7MqsH9QdwloMemFlSPNGyBDTG
+         xTSG9wi5Wze01eNEu8B/LAQF7Re936ykcFklINo9hap9e3A85y3hSCLxiboXEuU/gm9u
+         /Wzsabryu4TqzodVD0w210mI/mHQUYxk69N4q1jBaC1OBL27RAgnRsGCdQXxQInCDGzO
+         cYCDL2gkGa5I+audSBIff6kFdr0PSO+Tjoxj3hp0kxCnRucOS3P406TbtKpRmh3GxB36
+         L0FA==
+X-Gm-Message-State: ALyK8tLtV3Jto55ZEDdL5J9P7s2t0mh8y5QThcbAKF0xnhx7YP3yZ+EOekljCBzavb5afv78Pt3Xa7/g6mfSlw==
+MIME-Version: 1.0
+X-Received: by 10.28.165.66 with SMTP id o63mr9975761wme.102.1464357897007;
+ Fri, 27 May 2016 07:04:57 -0700 (PDT)
+Received: by 10.194.5.230 with HTTP; Fri, 27 May 2016 07:04:56 -0700 (PDT)
+Date: Fri, 27 May 2016 16:04:56 +0200
+Message-ID: <CAFMDXKg7_5-zfkNWc2q8n=vwDrfYhjJym6_zMCw-VKbLuZ_pwA@mail.gmail.com>
+Subject: postf4
+From: Peters Marco <marco.peters96@gmail.com>
+To: marco@wt11.ephec-ti.be
+Content-Type: multipart/alternative; boundary=001a114ba798467ab50533d3640f
+
+--001a114ba798467ab50533d3640f
+Content-Type: text/plain; charset=UTF-8
+
+TESTTTTTT
+
+BYYYE
+
+--001a114ba798467ab50533d3640f
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">TESTTTTTT<div><br></div><div>BYYYE</div></div>
+
+--001a114ba798467ab50533d3640f--
+

@@ -1,0 +1,72 @@
+From marco.peters96@gmail.com  Fri May 27 14:03:15 2016
+Return-Path: <marco.peters96@gmail.com>
+X-Original-To: root@wt11.ephec-ti.be
+Delivered-To: root@wt11.ephec-ti.be
+Received: from mail-wm0-f54.google.com (mail-wm0-f54.google.com [74.125.82.54])
+	by wt11.ephec-ti.be (Postfix) with ESMTPS id 00C415415CA
+	for <root@wt11.ephec-ti.be>; Fri, 27 May 2016 14:03:15 +0000 (UTC)
+Received: by mail-wm0-f54.google.com with SMTP id n129so138871725wmn.1
+        for <root@wt11.ephec-ti.be>; Fri, 27 May 2016 07:03:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to;
+        bh=wdE/5F+qTpL2oS1JBx5SUrhUA/SI2tTnoVu/Hoi7BTo=;
+        b=dfsH+DXtFVwH+9Bm+6OWH4+YbAxpYd3AJ+Sz68Q5BA7ARjkvR9w3Lc9eFm+4Q6OcI3
+         +HkIf8/t7B/gFv9q+/4xpPy9E+UBZOrscBLEppHVoKZZpBFVHe4MQgY29vu54QJi0b+B
+         368DBxR+9Mgx+c34R7ZuYKfc75RVv4IJwj/0O1l7huye+ldPv5pRn59Rd/fScq/Hhpj6
+         IDLaAw36k8sT53YDW85bVxHs501RChZ5RXrhNwPJQeUUbP6jLT+/0OqxMnkuEpkClNzL
+         GHu8hMB4zDxPzptGiK9Larf2meeose6uMvqktcYWoJvdYGZBk9999HW3CzNsKRXJN82t
+         6FaQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to;
+        bh=wdE/5F+qTpL2oS1JBx5SUrhUA/SI2tTnoVu/Hoi7BTo=;
+        b=bnyysSMzzsqSPJdFFLRESYQw8zU9kKkmfzr8e0M4DsJMyTiKiGZDY8HYSk9bInp8eQ
+         jvGiK1mfr8jNs569Pn2uYCezIT/nyH0HR6EPvgEdRESbXtIIMDlxx+fYwdSzU/qyrRVF
+         1MPszTJwp1SUq4CE4EB6NW7Q15xDd0lI+JpdU3/GOl1zQ35KcpKcgMFWVlrUOXgbXuCh
+         AmZ73lhQCDj8fgQUKSEkJ5xD0y9mIYmo4Sqi0pqIN8yfToNZ9a+0ZTyBU++BqibmcNl+
+         aod4UT8TBd9c7ZTzyVETYlqT4R3kTRc/HYG8jDFTIHUQppehcbpgY0a6duokq6QA81oj
+         rNMQ==
+X-Gm-Message-State: ALyK8tIc6rNbxF0/Fol+FCT0+rGUiCkKkYojBMlqsEJi/d/PWCj5RD+k6NC6jOM8U+1hmoHt8xLvmXekxA0oPw==
+MIME-Version: 1.0
+X-Received: by 10.28.232.136 with SMTP id f8mr10010910wmi.52.1464357794551;
+ Fri, 27 May 2016 07:03:14 -0700 (PDT)
+Received: by 10.194.5.230 with HTTP; Fri, 27 May 2016 07:03:14 -0700 (PDT)
+In-Reply-To: <20160527140257.795A55415B7@wt11.ephec-ti.be>
+References: <20160527140257.795A55415B7@wt11.ephec-ti.be>
+Date: Fri, 27 May 2016 16:03:14 +0200
+Message-ID: <CAFMDXKg2PVtvPfdsEVkfUPdv949XTV5=EXyXcgC_SMc5Yb=wDw@mail.gmail.com>
+Subject: Re: postfix version 4
+From: Peters Marco <marco.peters96@gmail.com>
+To: root <root@wt11.ephec-ti.be>
+Content-Type: multipart/alternative; boundary=001a11478ae02b2e900533d35e59
+
+--001a11478ae02b2e900533d35e59
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+okay ;)
+
+Le 27 mai 2016 =C3=A0 16:02, root <root@wt11.ephec-ti.be> a =C3=A9crit :
+
+> bonjour
+>
+> byebye
+>
+
+--001a11478ae02b2e900533d35e59
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">okay ;)</div><div class=3D"gmail_extra"><br><div class=3D"=
+gmail_quote">Le 27 mai 2016 =C3=A0 16:02, root <span dir=3D"ltr">&lt;<a hre=
+f=3D"mailto:root@wt11.ephec-ti.be" target=3D"_blank">root@wt11.ephec-ti.be<=
+/a>&gt;</span> a =C3=A9crit :<br><blockquote class=3D"gmail_quote" style=3D=
+"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">bonjour<br>
+<br>
+byebye<br>
+</blockquote></div><br></div>
+
+--001a11478ae02b2e900533d35e59--
+
